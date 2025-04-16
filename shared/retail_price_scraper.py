@@ -35,7 +35,7 @@ class MultiRetailerPriceScraper:
     def __init__(self):
         self.config = {
             "llm": {
-                "api_key": "sk-svcacct-rywW6ZHdq-AtScGw_jSdKFKU0oNFmx5cZtptmFZQYgXndm6MLQgBtiG6yF_V4KMT3BlbkFJ8IbElsySMTXjXJFAAfFDX_OD4VMN5ELoupNwFi9tOEwgYzYPbdOrBVwsjFaUjAA",
+                "api_key": "API_KEY",
                 "model": "openai/gpt-4",
                 "temperature":1.0,
             },
